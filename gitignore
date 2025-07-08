@@ -35,6 +35,14 @@ venv.bak/
 .pipenv/
 pip-log.txt
 pip-delete-this-directory.txt
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
 
 # PyInstaller
 *.manifest

@@ -11,3 +11,4 @@ tiktoken
 chromadb
 seaborn
 PyPDF2
+plotly 
