@@ -12,3 +12,4 @@ chromadb
 seaborn
 PyPDF2
 plotly 
+sentence-transformers
