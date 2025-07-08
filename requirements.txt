@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+numpy
+langchain
+openai
+pypdf
+faiss-cpu
+tiktoken
+chromadb
+seaborn
+PyPDF2
